@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pichu Fire Dekha
+
+This log tracks the cryptographic history and versioning for the song **Pichu Fire Dekha** (pichu-fire-dekha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-13T09:29:00.219375 | `v1` | `affa74ff15ce3786a503693fe02cc4bbb4e82e4394fa9d185bb674ff3f37fcea` | `c43e9b675e69545fbf0964ce4f8c6d95d08cdc679f21f1a2c3c1a268e73fe2b6` | `2026-05-13_pichu-fire-dekha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

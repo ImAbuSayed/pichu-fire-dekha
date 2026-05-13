@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pichu-fire-dekha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Pichu Fire Dekha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pichu-fire-dekha/) |
+| **Get License** | [Secure Licensing Rights for Pichu Fire Dekha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pichu-fire-dekha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `affa74ff15ce3786a503693fe02cc4bbb4e82e4394fa9d185bb674ff3f37fcea` |
 | **Timestamp** | May 13, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
